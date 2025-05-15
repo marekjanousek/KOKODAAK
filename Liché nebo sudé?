@@ -1,0 +1,5 @@
+cislo = 8
+if cislo % 2 == 0:
+    print("Sudé")
+else:
+    print("Liché")
